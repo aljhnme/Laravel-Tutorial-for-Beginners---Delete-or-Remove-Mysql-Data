@@ -1,0 +1,1 @@
+# Laravel-Tutorial-for-Beginners---Delete-or-Remove-Mysql-Data
